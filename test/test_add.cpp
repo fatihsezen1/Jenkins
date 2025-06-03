@@ -12,3 +12,5 @@ TEST(AddTest, Zero) {
 TEST(AddTest, NegativeNumbers) {
     EXPECT_EQ(add(-1, -2), -3);
 }
+
+int main() {}
