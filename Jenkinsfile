@@ -20,7 +20,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh "cmake --build ${BUILD_DIR} -- -j\\$(nproc)"
+                sh 'cmake --build ' + BUILD_DIR + ' -- -j$(nproc)'
             }
         }
 
