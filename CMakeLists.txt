@@ -11,6 +11,7 @@ enable_testing()
 find_package(GTest REQUIRED)
 
 include_directories(${GTEST_INCLUDE_DIRS})
+include_directories(src)
 
 add_executable(UnitTests test/test_add.cpp src/add.cpp)
 target_link_libraries(UnitTests ${GTEST_LIBRARIES} pthread)
