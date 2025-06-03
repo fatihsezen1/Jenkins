@@ -17,3 +17,5 @@ add_executable(UnitTests test/test_add.cpp src/add.cpp)
 target_link_libraries(UnitTests ${GTEST_LIBRARIES} pthread)
 
 add_test(NAME AddTest COMMAND UnitTests)
+
+target_include_directories(UnitTests PRIVATE src)
