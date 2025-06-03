@@ -28,6 +28,7 @@ pipeline {
             steps {
                 sh "cd ${BUILD_DIR} && ctest --output-on-failure --gtest_output=xml:test_results.xml"
                 junit "${BUILD_DIR}/test_results.xml"
+                ctest --output-on-failure
             }
         }
     }
