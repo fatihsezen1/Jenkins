@@ -5,9 +5,6 @@ pipeline {
         BUILD_DIR = 'build'
     }
 
-   pipeline {
-    agent any
-
     environment {
         BUILD_DIR = 'build'
     }
