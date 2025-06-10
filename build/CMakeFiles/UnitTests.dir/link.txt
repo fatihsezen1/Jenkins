@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/UnitTests.dir/test/test_add.cpp.o CMakeFiles/UnitTests.dir/src/add.cpp.o -o UnitTests  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

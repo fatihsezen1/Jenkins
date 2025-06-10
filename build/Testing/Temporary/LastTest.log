@@ -1,0 +1,18 @@
+Start testing: Jun 10 08:38 +03
+----------------------------------------------------------
+1/1 Testing: AddTest
+1/1 Test: AddTest
+Command: "/home/fatih/Desktop/CDP/cdp-ci-level-1/build/UnitTests"
+Directory: /home/fatih/Desktop/CDP/cdp-ci-level-1/build
+"AddTest" start time: Jun 10 08:38 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AddTest" end time: Jun 10 08:38 +03
+"AddTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 10 08:38 +03

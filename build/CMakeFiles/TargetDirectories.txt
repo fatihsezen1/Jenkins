@@ -1,0 +1,5 @@
+/home/fatih/Desktop/CDP/cdp-ci-level-1/build/CMakeFiles/MyApp.dir
+/home/fatih/Desktop/CDP/cdp-ci-level-1/build/CMakeFiles/UnitTests.dir
+/home/fatih/Desktop/CDP/cdp-ci-level-1/build/CMakeFiles/test.dir
+/home/fatih/Desktop/CDP/cdp-ci-level-1/build/CMakeFiles/edit_cache.dir
+/home/fatih/Desktop/CDP/cdp-ci-level-1/build/CMakeFiles/rebuild_cache.dir
