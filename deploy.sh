@@ -26,6 +26,6 @@ ctest --output-on-failure
 echo -e "${GREEN}[*] Dağıtım yapılıyor...${NC}"
 cd ..
 mkdir -p bin
-cp build/my_executable bin/
+cp build/MyApp /tmp/my_cpp_app
 
 echo -e "${GREEN}[✓] Başarıyla derlendi ve dağıtıldı.${NC}"
